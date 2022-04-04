@@ -1,6 +1,5 @@
-import React, { useState } from 'react'
+import React from 'react'
 import { Container } from './Container'
-import { ImageContext } from './ImageContext'
 
 export const HomeScreen = () => {
 

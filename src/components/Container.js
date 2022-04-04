@@ -1,5 +1,4 @@
-import React, { useContext, useEffect, useState } from 'react'
-import { ImageContext } from './ImageContext'
+import React, { useEffect, useState } from 'react'
 import { Success } from './Success';
 
 export const Container = () => {
